@@ -1,7 +1,6 @@
 <template>
      <div>
-          TUTOR VIEW
-          <TemporalTutor/>
+          <TemporalTutor />
      </div>
 </template>
 <script setup>

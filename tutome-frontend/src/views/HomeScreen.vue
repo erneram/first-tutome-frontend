@@ -1,7 +1,6 @@
 <template>
-     <div>
-          HOMESCREEN VIEW
-          <TemporalHomeScreen/>
+     <div class="flex justify-center align-center">
+          <TemporalHomeScreen />
      </div>
 </template>
 <script setup>

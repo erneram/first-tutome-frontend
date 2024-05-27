@@ -1,7 +1,6 @@
 <template>
      <div>
-          COURSES VIEW
-          <TemporalCourses/>
+          <TemporalCourses />
      </div>
 </template>
 <script setup>
